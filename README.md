@@ -7,7 +7,7 @@
 **Email:** shelemhg@hotmail.com  
 
 ### 📘 Current Focus  
-Pursuing the **Machine Learning Specialization** by Stanford University & DeepLearning.AI  
+Pursuing the **Machine Learning Specialization** 
 
 ---
 
